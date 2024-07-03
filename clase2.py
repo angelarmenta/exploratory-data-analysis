@@ -8,7 +8,7 @@ from scipy.stats import norm
 import numpy as np
 
 # Cargar los datos desde el archivo CSV
-file_path = '/Users/angelarmenta/Dropbox/Tec Misantla/2024 - 01 - Verano/MSC/Propedéutico/dataset_salary_2024.csv'
+file_path = 'RUTA DEL DATASET'
 data = pd.read_csv(file_path)
 
 # Gráfica de barras de la variable company_size
