@@ -1,1 +1,1 @@
-# propedeutico_msc_2024
+# Exploratory Data Analysis
