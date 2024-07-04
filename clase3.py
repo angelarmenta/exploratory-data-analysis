@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar los datos desde el archivo CSV
-file_path = '/Users/angelarmenta/Dropbox/Tec Misantla/2024 - 01 - Verano/MSC/Propedéutico/customer_segmentation_data.csv'
+file_path = 'RUTA DEL DATASET'
 data = pd.read_csv(file_path)
 
 # Gráfica de distribución para la edad
