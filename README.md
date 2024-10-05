@@ -7,6 +7,7 @@
 ## Lecture
 
 ## Dataset
+- [Customer Segmentation Data for Marketing Analysis](https://www.kaggle.com/datasets/fahmidachowdhury/customer-segmentation-data-for-marketing-analysis)
 
 ## Notebook
 
